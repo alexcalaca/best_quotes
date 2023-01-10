@@ -1,5 +1,4 @@
 require "rulers"
-
 # The LOAD_PATH line lets you load files out of “app/controllers” just by requiring their name
 $LOAD_PATH << File.join(File.dirname(__FILE__), "..", "app", "controllers")
 
